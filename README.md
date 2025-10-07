@@ -24,4 +24,4 @@ A dark Omarchy theme based on an Aylopop aurora background.
 3. Switch backgrounds with `Super + Ctrl + Space`.
 
 ## Credit
-Background art by **Aylopop** — include attribution and a link to the piece if you publish the theme.
+Background art by **@Aylopop** <https://ko-fi.com/aylopop>
