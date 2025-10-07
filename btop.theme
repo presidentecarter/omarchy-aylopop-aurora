@@ -1,0 +1,63 @@
+# Aylopop Aurora (dark)
+
+# Core
+theme[main_bg]      = #07131A
+theme[main_fg]      = #E9F6FF
+theme[title]        = #E9F6FF
+theme[hi_fg]        = #22D3C5      # keyboard shortcut highlights
+theme[inactive_fg]  = #9FB8C8
+
+# Boxes / dividers
+theme[cpu_box]      = #0F1F29
+theme[mem_box]      = #0F1F29
+theme[net_box]      = #0F1F29
+theme[proc_box]     = #0F1F29
+theme[div_line]     = #0F1F29
+
+# Selected row in processes
+theme[selected_bg]  = #0F1F29
+theme[selected_fg]  = #9D7CF5
+
+# Process small graphs / misc text
+theme[proc_misc]    = #22D3C5
+
+# Gradients
+theme[temp_start]   = #60F28A
+theme[temp_mid]     = #F0B35E
+theme[temp_end]     = #F27979
+
+theme[cpu_start]    = #60F28A
+theme[cpu_mid]      = #F0B35E
+theme[cpu_end]      = #F27979
+
+theme[free_start]   = #0F1F29
+theme[free_mid]     = #22D3C5
+theme[free_end]     = #60F28A
+
+theme[cached_start] = #0F1F29
+theme[cached_mid]   = #9FB8C8
+theme[cached_end]   = #22D3C5
+
+theme[available_start] = #9FB8C8
+theme[available_mid]   = #9D7CF5
+theme[available_end]   = #E9F6FF
+
+theme[used_start]   = #0F1F29
+theme[used_mid]     = #22D3C5
+theme[used_end]     = #9D7CF5
+
+theme[download_start] = #22D3C5
+theme[download_mid]   = #9FB8C8
+theme[download_end]   = #9D7CF5
+
+theme[upload_start] = #60F28A
+theme[upload_mid]   = #F0B35E
+theme[upload_end]   = #F27979
+
+# Status colors
+theme[ok_fg]        = #5BE0A1
+theme[warning_fg]   = #F0B35E
+theme[error_fg]     = #F27979
+
+
+

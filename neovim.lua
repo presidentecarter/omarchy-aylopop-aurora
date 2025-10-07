@@ -1,0 +1,8 @@
+vim.cmd('hi Normal guifg=#E9F6FF guibg=#07131A')
+vim.cmd('hi Comment guifg=#9FB8C8 gui=italic')
+vim.cmd('hi CursorLine guibg=#0F1F29')
+vim.cmd('hi Visual guifg=#07131A guibg=#22D3C5')
+vim.cmd('hi Error guifg=#F27979')
+vim.cmd('hi WarningMsg guifg=#F0B35E')
+vim.cmd('hi Identifier guifg=#22D3C5')
+vim.cmd('hi Statement guifg=#9D7CF5')
